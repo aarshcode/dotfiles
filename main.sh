@@ -1,5 +1,6 @@
 #!/bin/bash
-ln -s ./.bash_profile ~/.bash_profile
-ln -s ./.git-prompt.sh ~/.git-prompt.sh
-ln -s ./.vimrc ~/.vimrc
-ln -s ./.vim ~/.vim
+ln -s ~/.dotfiles/.zshrc ~/.zshrc
+ln -s ~/.dotfiles/.bash_profile ~/.bash_profile
+ln -s ~/.dotfiles/.git-prompt.sh ~/.git-prompt.sh
+ln -s ~/.dotfiles/.vimrc ~/.vimrc
+ln -s ~/.dotfiles/.vim ~/.vim
