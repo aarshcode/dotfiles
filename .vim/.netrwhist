@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/aarsh/Desktop/PPL/8 Sep 2020/que1.dSYM/Contents'
+let g:netrw_dirhist_2='/Users/aarsh/Desktop/PPL/8 Sep 2020/que1.dSYM'
+let g:netrw_dirhist_1='/Users/aarsh/.vim'
+let g:netrw_dirhist_0='/private/etc/wfs'
+let g:netrw_dirhist_9='/Users/aarsh/Assignment/PPL'
+let g:netrw_dirhist_8='/Users/aarsh/Assignment'
+let g:netrw_dirhist_7='/Users/aarsh/Code/python/__pycache__'
+let g:netrw_dirhist_6='/Users/aarsh/Code/python'
+let g:netrw_dirhist_5='/Users/aarsh/Code'
+let g:netrw_dirhist_4='/Users/aarsh'
