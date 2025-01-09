@@ -1,5 +1,7 @@
-adjust-cursor-thickness=2000%
-font-family="Monaco"
-font-size=17
-font-thicken=true
-theme=GruvboxDarkHard
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+font-family = "Monaco"
+font-size = 17
+font-thicken = true
+theme = GruvboxDarkHard
